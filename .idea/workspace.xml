@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6f66e47-e3c9-4d20-b3d0-85f0d5a9bab0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EmployeeCrud.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeCrud/Employee$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeCrud/Employee$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeCrud/Employee$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeCrud/Employee$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeCrud/Employee$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeCrud/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeCrud/com/intellij/uiDesigner/core/AbstractLayout.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeCrud/com/intellij/uiDesigner/core/DimensionInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeCrud/com/intellij/uiDesigner/core/GridConstraints.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeCrud/com/intellij/uiDesigner/core/GridLayoutManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeCrud/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeCrud/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeCrud/com/intellij/uiDesigner/core/Spacer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeCrud/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeCrud/com/intellij/uiDesigner/core/SupportCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeCrud/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/EmployeeCrud/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -167,12 +144,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1639225393324</updated>
-      <workItem from="1639225398052" duration="6897000" />
+      <workItem from="1639225398052" duration="7738000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6897000" />
+    <option name="totallyTimeSpent" value="7738000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="762" y="0" width="781" height="822" extended-state="0" />
@@ -182,13 +159,13 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33471647" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33471647" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.33285093" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.33285093" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.33285093" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
